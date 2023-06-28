@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samsung Galaxy S21+
-codename: t3s
+codename: t2s
 ---
 
 {% include deviceinfo.md %}
