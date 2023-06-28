@@ -1,9 +1,8 @@
 models:
-  - SM-G970F
-  - SM-G970N
+  - SM-G998B
 recovery_size: 67633152
 
-chipset: Samsung Exynos 9820 (8nm)
+chipset: Samsung Exynos 2100
 cpu: Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55)
 gpu: Mali-G76 MP12
 ram: 6/8 GB
