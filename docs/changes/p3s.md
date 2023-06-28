@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Changelog for Samsung Galaxy S10e
-codename: beyond0lte
+title: Changelog for Samsung Galaxy S21 Ultra
+codename: p3s
 ---
 
 {% include changelog.md %}
