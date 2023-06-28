@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LineageOS builds by Linux4
+title: LineageOS builds by Exy2100-LOS Team
 ---
 
 # Supported devices
