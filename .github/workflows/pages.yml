@@ -34,7 +34,7 @@ jobs:
       - name: Build page
         run: |
           cd docs
-          bundle exec jekyll build
+          bundle exec jekyll build --trace
 
       - name: Commit changes
         run: |
