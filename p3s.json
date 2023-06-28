@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1676738515",
-      "filename": "lineage-20.0-20230218-UNOFFICIAL-Linux4-gta4xlwifi.zip",
-      "id": "db8948ea38bef3b832c22b71782926f34cc5774eaae1751b84abb3317eab2453",
+      "datetime": "1687932566",
+      "filename": "lineage-20.0-20230628-UNOFFICIAL-p3s.zip",
+      "id": "b78260418662f75a7c4a4b5bb33950f3a7546ce46d51600410ad840d72747210",
       "romtype": "UNOFFICIAL",
-      "size": "829296342",
-      "url": "https://github.com/Linux4/lineage_OTA/releases/download/gta4xlwifi-20230218/lineage-20.0-20230218-UNOFFICIAL-Linux4-gta4xlwifi.zip",
+      "size": "955153424",
+      "url": "https://github.com/Exy2100-LOS/lineage_OTA/releases/download/p3s-20230628/lineage-20.0-20230628-UNOFFICIAL-p3s.zip",
       "version": "20.0"
     }
   ]
