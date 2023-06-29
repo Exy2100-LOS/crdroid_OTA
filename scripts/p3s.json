@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1687996214",
+      "filename": "lineage-20.0-20230629-UNOFFICIAL-p3s.zip",
+      "id": "2056f97a4188a6bbdda89eb099ba4fa28d72734e412c12768a7f7b881d381eec",
+      "romtype": "UNOFFICIAL",
+      "size": "955248026",
+      "url": "https://github.com/Exy2100-LOS/lineage_OTA/releases/download/p3s-20230629/lineage-20.0-20230629-UNOFFICIAL-p3s.zip",
+      "version": "20.0"
+    }
+  ]
+}
