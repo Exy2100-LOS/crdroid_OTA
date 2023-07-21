@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1687933095",
-      "filename": "lineage-20.0-20230629-UNOFFICIAL-o1s.zip",
-      "id": "7948e2dcc45391be06d7e28a38c8c0cc8f9c8dc6d004115345c4fb41c5991fb0",
+      "datetime": "1689770545",
+      "filename": "lineage-20.0-20230721-UNOFFICIAL-o1s.zip",
+      "id": "5fe0834a1382250819be38ab0f83d2aac8ac5865de49291b8f6dea228b64ca36",
       "romtype": "UNOFFICIAL",
-      "size": "945445147",
-      "url": "https://github.com/Exy2100-LOS/lineage_OTA/releases/download/o1s-20230629/lineage-20.0-20230629-UNOFFICIAL-o1s.zip",
+      "size": "963468499",
+      "url": "https://github.com/Exy2100-LOS/lineage_OTA/releases/download/o1s-20230721/lineage-20.0-20230721-UNOFFICIAL-o1s.zip",
       "version": "20.0"
     }
   ]
