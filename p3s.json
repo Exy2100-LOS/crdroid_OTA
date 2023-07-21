@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1688198677",
-      "filename": "crDroidAndroid-13.0-20230701-p3s-v9.6.zip",
-      "id": "a0f799c7cc4d365e93f58436b14ce0ab35c592d9b923af939059dbcf7fc3867c",
-      "romtype": "p3s",
-      "size": "1064929117",
-      "url": "https://github.com/Exy2100-LOS/lineage_OTA/releases/download/p3s-20230601/crDroidAndroid-13.0-20230701-p3s-v9.6.zip",
-      "version": "13.0"
+      "datetime": "1689897574",
+      "filename": "lineage-20.0-20230721-UNOFFICIAL-p3s.zip",
+      "id": "1fe0fb9ee34b9f876988c24dd51fb39ec8830ef23a73c4f90ae12babe159bec9",
+      "romtype": "UNOFFICIAL",
+      "size": "974506862",
+      "url": "https://github.com/Exy2100-LOS/lineage_OTA/releases/download/p3s-20230721/lineage-20.0-20230721-UNOFFICIAL-p3s.zip",
+      "version": "20.0"
     }
   ]
 }
