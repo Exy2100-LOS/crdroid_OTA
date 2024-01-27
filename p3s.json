@@ -1,10 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1706319894",
+      "maintainer": "TQMatvey",
+			"oem": "Samsung",
+			"device": "Galaxy S21 Ultra",
+      "timestamp": 1806319894,
       "filename": "crDroidAndroid-14.0-20240127-p3s-v10.1.zip",
       "id": "0cf75712ca243da679ac46badd02e2ec830675ff4559005b844f73a6d9326b7d",
-      "romtype": "p3s",
+      "buildtype": "Weekly",
       "size": "1116080862",
       "url": "https://github.com/Exy2100-LOS/crdroid_OTA/releases/download/p3s-20240127/crDroidAndroid-14.0-20240127-p3s-v10.1.zip",
       "version": "14.0"
