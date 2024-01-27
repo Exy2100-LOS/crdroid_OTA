@@ -1,16 +1,28 @@
 {
-  "response": [
-    {
-      "maintainer": "TQMatvey",
-			"oem": "Samsung",
-			"device": "Galaxy S21 Ultra",
-      "timestamp": 1806319894,
-      "filename": "crDroidAndroid-14.0-20240127-p3s-v10.1.zip",
-      "id": "0cf75712ca243da679ac46badd02e2ec830675ff4559005b844f73a6d9326b7d",
-      "buildtype": "Weekly",
-      "size": "1116080862",
-      "url": "https://github.com/Exy2100-LOS/crdroid_OTA/releases/download/p3s-20240127/crDroidAndroid-14.0-20240127-p3s-v10.1.zip",
-      "version": "14.0"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Ionut Gherman",
+			"oem": "Google",
+			"device": "Pixel 8",
+			"filename": "crDroidAndroid-14.0-20240126-shiba-v10.1.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/shiba/10.x/crDroidAndroid-14.0-20240126-shiba-v10.1.zip/download",
+			"timestamp": 1916298440,
+			"md5": "3a4e54470c61c044f21bbdc8bf596938",
+			"sha256": "02d779186ad5e153e2201fbf6becde4f4b3142ac9e9a419b5bbc0f8646cdeaed",
+			"size": 2249229137,
+			"version": "10.1",
+			"buildtype": "Weekly",
+			"forum": "https://xdaforums.com/t/rom-14-shiba-crdroid-10-1-official-26-01-2024.4650503/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/shiba/10.x/recovery/",
+			"paypal": "",
+			"telegram": "https://t.me/crdroidpixel8series",
+			"dt": "https://github.com/crdroidandroid/android_device_google_shusky",
+			"common-dt": "https://github.com/crdroidandroid/android_device_google_zuma",
+			"kernel": "https://android.googlesource.com/device/google/shusky-kernel/"
+		}
+	]
 }
